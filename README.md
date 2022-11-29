@@ -1,1 +1,1 @@
-My first readme
+Still getting a hang of Shell and Github
